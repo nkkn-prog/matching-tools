@@ -98,7 +98,7 @@ python pairs/auto_click.py
 
 ### 使い方（共通）
 
-1. 実行するとChromeが自動で開きます
+1. auto_click.pyを実行するとChromeが自動で開きます
 2. Pairsにログインしてください
 3. 検索ページ（`/search/all`）が表示されたら、ターミナルに戻って **Enterキー** を押してください
 4. 自動で「次のお相手」ボタンを繰り返しクリックします
